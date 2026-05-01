@@ -37,7 +37,7 @@ strengths  :
   - REST API design & RBAC systems
   - Large dataset pipelines & optimization
   - Cross-platform mobile (Flutter + Firebase)
-available  : Open to full-time & internship roles · 2025
+available  : Open to full-time & internship roles · 2026
 ```
 
 <br clear="right" />
