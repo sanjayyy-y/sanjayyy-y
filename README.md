@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayyy-y&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="36%" />
+
 
 ### 👨‍💻 About me
 
@@ -190,8 +190,7 @@ available  : Open to full-time & internship roles · 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjayyy-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayyy-y&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 
 <br/>
 
